@@ -61,10 +61,23 @@ http://localhost:3000/vehicles/852e593c-057b-417e-a2cf-4315b3cfb31/locations
 }
 ```
 
+DELETE :
+
+```
+# Request URL
+http://localhost:3000/vehicles/852e593c-057b-417e-a2cf-4315b3cfb31
+```
+
+
+
+## Postman
+
+
 
 
 ```
-docker run --rm -t mysherlock-image user123
+
+
 ```
 
 The optional ```--rm``` flag removes the container filesystem on completion to prevent cruft build-up. See: https://docs.docker.com/engine/reference/run/#clean-up---rm
