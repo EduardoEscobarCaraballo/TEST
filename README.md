@@ -28,7 +28,8 @@ $ bundle install
 
 
 # once the bundle is installed and XAMPP has started running Apache and MySQL we can start our rails project
-$ rails db:migrate 
+$ rails db:migrate:up VERSION=20211113203640    # Numbers that appear in vehicles/db/migrate create_vehicles.rb file
+$ rails db:migrate:up VERSION=20211115144255    # Numbers that appear in vehicles/db/migrate create_vehicles.rb file
 $ rails s
 ```
 
