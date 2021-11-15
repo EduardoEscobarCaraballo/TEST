@@ -1,3 +1,7 @@
+# Backend code challenge
+
+For doing this project I have used 
+
 ## Installation
 
 ```console
@@ -14,6 +18,7 @@ $ cd vehicles
 
 # install rails
 $ gem install rails
+
 
 # install the requirements
 $ install bundler
@@ -77,7 +82,7 @@ http://localhost:3000/vehicles/852e593c-057b-417e-a2cf-4315b3cfb31
 
 
 
-## Scaling more than 1000 vehicles
+## Handling more than 1000 vehicles
 
 For demonstrating how the solution would handle 1000+ vehicles, I used Faker. A library for generating fake data. As we can see, it created 1000+ rows of data.
 
