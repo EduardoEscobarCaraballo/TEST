@@ -1,6 +1,6 @@
 # Backend code challenge
 
-For doing this project I have used 
+For the creation of this project I used Ruby on Rails, an open-source software used to build Rest API. The web server was built using XAMPP, MySQL and phpMyAdmin.
 
 ## Installation
 
