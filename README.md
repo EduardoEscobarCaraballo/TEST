@@ -86,6 +86,6 @@ http://localhost:3000/vehicles/852e593c-057b-417e-a2cf-4315b3cfb31
 
 ## Handling more than 1000 vehicles
 
-For demonstrating how the solution would handle 1000+ vehicles, I used Faker. A library for generating fake data. As we can see, it created 1000+ rows of data.
+For demonstrating how the solution would handle 1000+ vehicles, I used Faker. A library for generating fake data. We can see here that it created 1000+ rows of data.
 
 ![image](https://user-images.githubusercontent.com/72938289/141835011-8f8eb24e-9889-473a-9031-9c55240b55c8.png)
