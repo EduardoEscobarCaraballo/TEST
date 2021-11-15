@@ -2,6 +2,8 @@
 
 For the creation of this project I used Ruby on Rails, an open-source software used to build Rest API. The web server was built using XAMPP, MySQL and phpMyAdmin.
 
+The project is able to register vehicles, collect their locations in real time and delete the vehicles when it will stop emitting location updates.
+
 ## Installation
 
 ```console
