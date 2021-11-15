@@ -46,7 +46,7 @@ GET :
 http://localhost:3000/vehicles/
 ```
 
-POST : We are going to use two posts. The first one will register the vehicle, the second one will update its location data.
+POST : Two posts are needed. The first one will register the vehicle, the second one will update its location data.
 
 First Post
 ```
