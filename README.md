@@ -8,7 +8,7 @@
 # https://www.ruby-lang.org/en/downloads/
 
 
-# open command line and cd to this directory
+# open command line and cd to the project directory
 $ cd vehicles
 
 
