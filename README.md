@@ -1,17 +1,21 @@
 ## Installation
 
 ```console
-# XAMPP, PhpMyAdmin and Ruby are required to run this project.
+# XAMPP, phpMyAdmin and Ruby are required to run this project.
+
 # https://www.apachefriends.org/download.html
 # https://www.phpmyadmin.net/downloads/
 # https://www.ruby-lang.org/en/downloads/
 
+
 # open command line and cd to this directory
 $ cd vehicles
+
 
 # install the requirements
 $ install bundler
 $ bundle install
+
 
 # once the bundle is installed and XAMPP has started running Apache and MySQL we can start our rails project
 $ rails s
