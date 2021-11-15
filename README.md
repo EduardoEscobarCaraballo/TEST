@@ -28,6 +28,7 @@ $ bundle install
 
 
 # once the bundle is installed and XAMPP has started running Apache and MySQL we can start our rails project
+$ rails db:migrate 
 $ rails s
 ```
 
